@@ -1,26 +1,26 @@
-text,true,pred,correct
-arm slammed by handset sales outlook,negative,neutral,False
-finland s dominating rail company vr is planning to set the infected passengers for long-distance trip in a separate carriage .,neutral,positive,False
-yit lodged counter claims against neste oil totaling some eur25m primarily based on work carried out under the contract and additional costs incurred due to prolongation of the project .,negative,neutral,False
-the company confirmed its estimate for lower revenue for the whole than the year-ago eur93 . as given in the interim report on august .,neutral,negative,False
-altogether subjects with mildly elevated cholesterol levels participated in the four-month long intervention .,neutral,positive,False
-with the extension of the new contract for a further eight engines the plant will now produce over mw it said .,positive,neutral,False
-the company reports a loss for the period of compared to a loss of in the corresponding period in .,positive,negative,False
-a portion $ will be recorded as part of its winnings in a prior patent dispute with finnish phone maker nokia oyj .,positive,neutral,False
-aldi and lidl expansion plans speed ahead as tesco sainsbury s morrisons ...,positive,negative,False
-finnish exel composites a technology company that designs manufactures and markets composite profiles and tubes for various industrial applications reports its net sales decreased by % in the second quarter of to from in the corresponding period in .,negative,neutral,False
-the prices of stainless steel also rose in europe .,neutral,positive,False
-during the strike finnair estimates to incur a net loss of between eur2m and eur2 . per day .,neutral,negative,False
-operating loss totaled compared to a profit of .,neutral,negative,False
-ifhedieshedies bullhorn334 shorts are getting nervous,positive,negative,False
-the service is intended to allow the people of thirteen mediterranean countries to reach the baltic more rapidly with a single carrier .,positive,neutral,False
-scottrade why is not available for shorting at this time same for,negative,neutral,False
-petrofac books further cost for shetland gas terminal delays,negative,positive,False
-sanoma news advertising sales decreased by % during the year .,neutral,negative,False
-ingenious hsbc ubs and coutts sued by tax avoidance clients,negative,positive,False
-march - finnish electronics contract manufacturer scanfil oyj hel scf1v said today its plan to merge wholly owned scanfil ems group with ojala-yhtyma oy has hit a snag as shareholders of the domestic rival rejected the deal .,neutral,negative,False
-sales in finland decreased by % and international sales decreased by % in terms of euros and by % in terms of local currencies .,negative,neutral,False
-stocktwits kbkiwi tesla model s sales exceed target profitability guidance amended upward,positive,negative,False
-nokia shares hit euros on friday down percent from the start of the year in part because of the slow introduction of touch-screen models .,neutral,negative,False
-in finland op-pohjola s staff union is boycotting the group s insurance sales tasks because the company has refused to take the sale of insurance into account in determining wages .,negative,neutral,False
-the liquidity providing was interrupted on may when aspocomp group oyj s shares traded below cent aspocomp s stock exchange release . .,negative,neutral,False
+text,true,pred
+"The report also said Nokia 's operations comprising the sites at Bochum , Ulm , Dusseldorf , Munich and Frankfurt posted operating profit after interest of 246 mln eur .",neutral,positive
+The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,neutral,negative
+"With the extension of the new contract for a further eight engines , the plant will now produce over 100 MW , it said .",positive,neutral
+The company reports a loss for the period of EUR 0.4 mn compared to a loss of EUR 1.9 mn in the corresponding period in 2005 .,positive,negative
+"A portion , $ 12.5 million , will be recorded as part of its winnings in a prior patent dispute with Finnish phone maker Nokia Oyj .",positive,neutral
+The product 's front-edge folding maximizes weather resilience and enables a seamless roof finish .,neutral,positive
+"Finnair 's Tallinn-based subsidiary , Aero AS , carried 23,335 passengers , a decline of 60.8 % , on routes between Helsinki and the Baltic capitals and within Southern Finland .",neutral,negative
+The prices of stainless steel also rose in Europe .,neutral,positive
+"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",neutral,negative
+"Operating loss totaled EUR 0.8 mn , compared to a profit of EUR 0.5 mn .",neutral,negative
+"@IfHeDiesHeDies: @Bullhorn334: $ZNGA shorts are getting nervous""""",positive,negative
+Sanoma News ' advertising sales decreased by 22 % during the year .,neutral,negative
+25 March 2011 - Finnish electronics contract manufacturer Scanfil Oyj HEL : SCF1V said today its plan to merge wholly owned Scanfil EMS Group with Ojala-Yhtyma Oy has hit a snag as shareholders of the domestic rival rejected the deal .,neutral,negative
+"According to Finnish insurance companies Tapiola , Local Insurance Group ( L+ñhivakuutus ) , and Pohjola the two fierce storms at the end of July and in the beginning of August 2010 that felled trees around Finland have speeded up sales of forest insurance .",positive,negative
+"Nokia shares hit 13.21 euros on Friday , down 50 percent from the start of the year in part because of the slow introduction of touch-screen models .",neutral,negative
+The share of the share capital of both above mentioned shareholders remains below 5 % .,neutral,negative
+"Talvik says the relocation of application programs on servers will continue , while HP servers were approved because of HP supplying a tailor-made solution to Elisa .",neutral,positive
+"Finnish steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today its net loss contracted to EUR 49 million ( USD 68.2 m ) for the first nine months of 2010 from EUR 229 million for the same period a year ago .",positive,negative
+"In a separate announcement to the Helsinki stock exchange , Atria revealed that the company 's third quarter profits declined from EUR13 .9 m in the third quarter of last year to EUR12 .7 m in this year 's Q3 .",neutral,negative
+$SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance,positive,negative
+$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high,positive,negative
+"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",negative,positive
+$GEVO PLUNGING!  Back to $3.55.,negative,positive
+"Tornio Works employs 2,300 of whom more than 1,800 have been in the scope of the fixed-period or part-time temporary layoffs in April-October period .",neutral,negative
+"The company said that it will supply the WCDMA 3G-HSPA radio network , including the modular , high capacity Nokia Flexi WCDMA base station in East Java , Bali , Sumatra and Batam .",positive,neutral

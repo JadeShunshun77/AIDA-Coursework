@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1
+DistilBERT (weighted loss),0.7867730900798175,0.763234178066714,0.7979219542661682
